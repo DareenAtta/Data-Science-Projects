@@ -15,4 +15,16 @@ The objective of the project to measure the quality of predictions from a classi
 
 
 * ### Data Analysis projects
-1- [Superstore Project]()
+1- [Superstore Project](https://github.com/DareenAtta/Data-Science-Projects/blob/main/SuperStore%20Project.ipynb)
+ 
+ The objective of the project to answer  some questions:
+
+** what would work best for them given the rising needs and fierce competition in the market?
+
+** which categories and sub-category, regions, and consumer segments they ought to concentrate on or steer clear of?
+
+ **what is  their profit projections ?
+
+2- [Prediction Analysis on Stroke]()
+
+The objective of the project , interactive dashboard Visualizing data exploration and determine incidence trend of stroke disease based on various patient characteristic.
