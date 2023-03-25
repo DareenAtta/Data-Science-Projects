@@ -12,3 +12,7 @@ The objective of the project , prediction of the price of certain items by using
 2- [Machine Learning on Titanic Dataset](https://github.com/DareenAtta/Data-Science-Projects/blob/main/Machine%20Learning%20on%20Titanic%20Data%20Set.ipynb)
 
 The objective of the project to measure the quality of predictions from a classification algorithm. 
+
+
+* ### Data Analysis projects
+1- [Superstore Project]()
