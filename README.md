@@ -25,6 +25,6 @@ The objective of the project to measure the quality of predictions from a classi
 
  **what is  their profit projections ?
 
-2- [Prediction Analysis on Stroke]()
+2- [Prediction Analysis on Stroke](https://github.com/DareenAtta/Data-Science-Projects/blob/main/Stroke_Prediction_on_Stroke_.ipynb)
 
 The objective of the project , interactive dashboard Visualizing data exploration and determine incidence trend of stroke disease based on various patient characteristic.
